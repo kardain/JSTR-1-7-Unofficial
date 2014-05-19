@@ -1,0 +1,10 @@
+item.handle.name=Handle
+item.crafting.name=Portable Crafting Table
+item.chest.name=Portable Ender Chest
+item.both.name=Portable All-In-One
+item.enchant.name=Portable Enchanting Table
+item.anvil.name=Portable Anvil
+item.mboth.name=Portable Magic All-In-One
+item.ultra.name=Portable Ultra All-In-One
+item.superbooks.name=Portable Bookshelf
+itemGroup.PortableCrafting=PortableCrafting
